@@ -1,0 +1,98 @@
+Chapter 1 Introduction
+
+
+1- Problem Statement->
+The main problem to be addressed in our project firstly the identification of the emotion from the image,secondly classification of images based on their text styles and convert that text into speech and lastly establishing a correlation between the image and the speech.
+
+As the world progresses towards Computer Vision and Machine learning in daily life, a time may come where people would like their systems to listen the text without seeeing that particular thing. A software in which if you click a photo it extract the text from it and can play that text for you.
+
+2-Application
+-Such a system could directly be developed as a mobile app and released to the public.
+-It could also be integrated as a part of an AI system of a computer system that would increase the aesthetic value and overall experience of the AI.
+-blind student can take exam without blain lipi language.
+-As Stated earlier,With the help of this we can do two things simultaneously.
+-Blind Person Supporter-A blind man can start this software and with the help of this he can listen that what the message the image want to convey.
+-With its unique functionality the application can become a doorway to highly personalized systems which can be a step further in human computer interaction optimization.
+
+3-Objectives
+The idea behind this project is to develop an software that uses image processing and machine learning techniques to convert the text to speech.We can convert speech by seeing any general image in outside world also.
+The working is based on different mechanisms carrying out their function in a pre-defined order to get the desired output.
+To generate the speech we just have to click an image and after that our software will convert that image to music file according to the text and will play that file.
+	
+
+4-Report Organization
+The first section of the report will focus on the theory which our work is based on, along with relevant diagrams and other such information.
+The second section of this report covers the actual work done by us in the project.
+Section three talks about the work that will be done in the next phase of the project
+
+
+
+ 
+Chapter 2 Literature Survey and Theory
+1-OpenCV
+2-Scikit-learn
+3-Matplotlib
+4-Natural Language Processing
+5-Python Packages-gTTs
+
+ScikitLearn - Machine learnnig library in this we have many supervised and unsupervised algorithm and we will use those algorithm for our purpose.
+We are not finalized the algorithm which we will use but most probably we used supervised leaning algorithm to train our model and then classify the images and extract the text according to it.
+Supervised Algorithms->
+-Naive Bayes
+-Deccision Trees
+Unsupervised Algorithms->
+-Clustering
+
+
+gTTS ->google text to speech
+ a Python interface for Google's _Text to Speech_ API. Create an _mp3_ file with the `gTTS` module or `gtts-cli` command line utility. It allows unlimited lengths to be spoken by tokenizing long sentences where the speech would naturally pause.
+
+
+Chapter 3 Project Till Now
+
+In the previous sections we have already stated the applications of our project in mainstream software.
+
+For the first quarter,We will understand all the components and technologies which are related to our project and read research papers about this topic.
+We will make a simple program which will convert a simple image which only consist a text and then convert it into .mp3 file and then play that file.
+
+Workflow-
+Step 1 ->Appropriate research regarding the topic
+Collection of all relevant and helpful material
+
+step2->Listing of all requirement for the software.
+step3->Design a simple software which will convert a simple image into a speech.
+step4->Apply machine learning algorithm to detect the text from the complex images.
+step5->Improve our software which will convert a complex image to a speech.
+step6->Optimize our software.
+
+Development Lifecycle-
+In the previous sections we have already stated the applications of our project in mainstream software.
+
+
+Future WORK---
+This being the first quarterly evaluation, there is still more work to be done in the development of the final project. The remaining work that will be completed in the future can be broadly classified under three stages:
+1-Development of a simple Application which convert image to speech.
+2-Development and implementation of a machine learning algorithm for classification of the complex images and taking the text from it only.
+3-Optimize the time complexity and give a appropriate software.
+
+Over the second evaluation,our goal is to implement libraries of python and make a simple application.
+
+Over the next semester, our goal is to implement a suitable machine learning algorithm (such as Regression) within our App. Then a training dataset will have to be generated or acquired separately with which the training of the classifier can be done.
+
+Once training is done, the next step will be to test that algorithm with complex image and optimize it.
+
+The final development stage will be the integration of machine learning algorithm model to our software and build the optimized software for it.
+
+
+
+Conclusion---
+At present we have succeeded in making the prototype for the first part of our project and we know what technologies to implement.For future we intend to implement the software to convert text to speech.Through our rigorous literature survey,we gained new appreciation of the field of human computer interaction and have been able to learn new algorithms neede in creating and optimising human computer interaction.We have learned the importance of maintence and rework needed to successfully deploy an application in real world.We hope to improve upon our skills as developers and software engineers not only in the technical aspect but also in context of user satisfaction as we continue our project.
+
+
+
+
+
+
+Natural Language Processing (NLP) is an area of research and application that explores 
+how computers can be used to understand and manipulate natural language text or speech 
+to do useful things
